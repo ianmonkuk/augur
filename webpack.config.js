@@ -1,4 +1,4 @@
-
+"use strict";
 
 // Workaround for Windows Based Development/Build
 try {
